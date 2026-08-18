@@ -7,6 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=muzammil-360&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=muzammil-360)
+<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=muzammil-360&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
